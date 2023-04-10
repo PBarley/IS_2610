@@ -1,0 +1,4 @@
+Nota: 
+1. En la carpeta "AnalisisDiseñoSW" se encuentra el desarrollo del SW (Los diagramas y Modelos) y en la carpeta "Codigo_PruebasUnit" todo lo relacionado al código.
+2. Las clases que están desarrollados son exclusivamente las que pertenecen a el paquete de "Dominio del problema".
+3. Las pruebas unitarias se han realizado únicamente sobre las clases Total y Buscar (ello pese a la existencia de otras clases). Debido a que las otras clases necesitan trabajar con la base de datos, que no se tiene de momento, así mismo se han omitido algunos métodos por el mismo motivo
